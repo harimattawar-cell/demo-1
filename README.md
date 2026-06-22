@@ -1,4 +1,4 @@
 # demo-1
 This is my first git repository
 <br>
-Author-Haricharan Mattawar
+Author-Haricharan Gajanan Mattawar
